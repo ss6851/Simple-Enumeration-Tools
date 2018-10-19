@@ -17,4 +17,4 @@ try:
 	except:
 		print":( Unidentified error occurred."
 except:
-	print"[+] Usage: python port_scanner <target-ip>"
+	print"[+] Usage: python port_scanner.py <target-ip>"
